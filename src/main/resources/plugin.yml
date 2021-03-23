@@ -1,0 +1,4 @@
+name: nWebAPI
+main: webapi.WebAPI
+version: 1.0
+api-version: 1.16
